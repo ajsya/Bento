@@ -106,20 +106,20 @@ const CONFIG = {
     ],
     secondList: [
       {
-        name: 'Linkedin',
-        link: 'https://linkedin.com/',
+        name: 'Youtube',
+        link: 'https://youtube.com',
       },
       {
-        name: 'Figma',
-        link: 'https://figma.com/',
+        name: 'wasteof.money',
+        link: 'https://wasteof.money',
       },
       {
-        name: 'Dribbble',
-        link: 'https://dribbble.com',
+        name: 'Canva',
+        link: 'https://www.canva.com/',
       },
       {
-        name: 'Telegram',
-        link: 'https://webk.telegram.org',
+        name: 'Twitter',
+        link: 'https://twitter.com/home',
       },
     ],
   },
