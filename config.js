@@ -11,7 +11,7 @@ const CONFIG = {
   // └─┘┴ ┴└─┘┴└─┘└─┘
 
   // General
-  name: 'John',
+  name: 'ajsya',
   imageBackground: false,
   openInNewTab: true,
   twelveHourFormat: false,
@@ -23,9 +23,9 @@ const CONFIG = {
   greetingNight: 'Go to Sleep!',
 
   // Weather
-  weatherKey: 'InsertYourAPIKeyHere123456',
+  weatherKey: '6a897212c2bbe5c3c349d0b6edc27acc',
   weatherIcons: 'OneDark', // 'Nord', 'Dark', 'White'
-  weatherUnit: 'C', // 'F', 'C'
+  weatherUnit: 'F', // 'F', 'C'
   language: 'en', // More languages in https://openweathermap.org/current#multi
 
   trackLocation: true, // If false or an error occurs, the app will use the lat/lon below
@@ -48,31 +48,31 @@ const CONFIG = {
       id: '2',
       name: 'Mail',
       icon: 'mail',
-      link: 'https://mail.protonmail.com/',
+      link: 'https://mail.google.com/',
     },
     {
       id: '3',
-      name: 'Todoist',
-      icon: 'trello',
-      link: 'https://todoist.com',
+      name: 'Roblox',
+      icon: 'gamepad-2',
+      link: 'https://www.roblox.com/home',
     },
     {
       id: '4',
-      name: 'Calendar',
-      icon: 'calendar',
-      link: 'https://calendar.google.com/calendar/r',
+      name: 'Scratch',
+      icon: 'trello',
+      link: 'https://scratch.mit.edu',
     },
     {
       id: '5',
-      name: 'Reddit',
-      icon: 'glasses',
-      link: 'https://reddit.com',
+      name: 'code-server',
+      icon: 'code',
+      link: 'http://raspberrypi:8080/?ew=true',
     },
     {
       id: '6',
-      name: 'Odysee',
-      icon: 'youtube',
-      link: 'https://odysee.com/',
+      name: 'Ocular',
+      icon: 'glasses',
+      link: 'https://ocular.jeffalo.net',
     },
   ],
 
@@ -88,38 +88,38 @@ const CONFIG = {
   lists: {
     firstList: [
       {
-        name: 'Inspirational',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'Classical',
+        link: 'https://open.spotify.com/playlist/1h0CEZCm6IbFTbxThn6Xcs',
       },
       {
-        name: 'Classic',
+        name: 'Epic Classical',
+        link: 'https://open.spotify.com/playlist/37i9dQZF1DX9G9wwzwWL2k',
+      },
+      {
+        name: 'Inspirational',
         link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
       },
       {
         name: 'Oldies',
         link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
       },
-      {
-        name: 'Rock',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
-      },
     ],
     secondList: [
       {
-        name: 'Linkedin',
-        link: 'https://linkedin.com/',
+        name: 'Youtube',
+        link: 'https://youtube.com',
       },
       {
-        name: 'Figma',
-        link: 'https://figma.com/',
+        name: 'wasteof.money',
+        link: 'https://wasteof.money',
       },
       {
-        name: 'Dribbble',
-        link: 'https://dribbble.com',
+        name: 'Canva',
+        link: 'https://www.canva.com/',
       },
       {
-        name: 'Telegram',
-        link: 'https://webk.telegram.org',
+        name: 'Twitter',
+        link: 'https://twitter.com/home',
       },
     ],
   },
