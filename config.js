@@ -60,12 +60,12 @@ const CONFIG = {
       id: '4',
       name: 'Scratch',
       icon: 'trello',
-      link: 'https://scratch.mid.edu',
+      link: 'https://scratch.mit.edu',
     },
     {
       id: '5',
       name: 'code-server',
-      icon: 'trello',
+      icon: 'code',
       link: 'http://raspberrypi:8080/?ew=true',
     },
     {
