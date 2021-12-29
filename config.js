@@ -52,9 +52,9 @@ const CONFIG = {
     },
     {
       id: '3',
-      name: 'Spotify',
-      icon: 'music',
-      link: 'https://spotify.com/',
+      name: 'wasteof.money',
+      icon: 'twitter',
+      link: 'https://wasteof.money',
     },
     {
       id: '4',
@@ -88,19 +88,19 @@ const CONFIG = {
   lists: {
     firstList: [
       {
+        name: 'Classical',
+        link: 'https://open.spotify.com/playlist/1h0CEZCm6IbFTbxThn6Xcs',
+      },
+      {
+        name: 'Epic Classical',
+        link: 'https://open.spotify.com/playlist/37i9dQZF1DX9G9wwzwWL2k',
+      },
+      {
         name: 'Inspirational',
         link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
       },
       {
-        name: 'Classic',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
-      },
-      {
         name: 'Oldies',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
-      },
-      {
-        name: 'Rock',
         link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
       },
     ],
