@@ -10,6 +10,12 @@
     />
     <link rel="stylesheet" href="app.css" />
     <script src="https://unpkg.com/lucide@latest"></script>
+    <script>
+      function search() {
+        var searchterm = document.getElementById("searchbar").value;
+        window.location.replace("https://google.com/search?q=" + searchterm);
+      }
+    </script>
   </head>
 
   <!-- 
@@ -32,6 +38,13 @@
           <div id="minutes" class=""></div>
         </div>
         <div id="greetings" class=""></div>
+      </div>
+      
+      <!-- Google Searchbar -->
+      <div class="searchbarBlock">
+        <div class="serachbar">
+          <input class="" id="searchbar" placeholder="">
+        </div>
       </div>
 
       <!-- Date and Weather  -->
