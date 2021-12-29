@@ -52,9 +52,9 @@ const CONFIG = {
     },
     {
       id: '3',
-      name: 'wasteof.money',
-      icon: 'twitter',
-      link: 'https://wasteof.money',
+      name: 'Roblox',
+      icon: 'gamepad-2',
+      link: 'https://www.roblox.com/home',
     },
     {
       id: '4',
