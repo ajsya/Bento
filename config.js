@@ -118,8 +118,8 @@ const CONFIG = {
         link: 'https://www.canva.com/',
       },
       {
-        name: 'Twitter',
-        link: 'https://twitter.com/home',
+        name: 'Figma',
+        link: 'https://figma.com',
       },
     ],
   },
